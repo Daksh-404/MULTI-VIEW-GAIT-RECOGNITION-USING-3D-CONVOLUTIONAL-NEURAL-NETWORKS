@@ -17,8 +17,7 @@ The objective of the research paper as given above can summarized as :
 So if you have done this, cheers! Let's go!
 
 ## Important Points
-1. Referring to [this medium article](https://towardsdatascience.com/
-step-by-step-implementation-3d-convolutional-neural-network-in-keras-12efbdd7b130). Use Incognito to access the complete article!
+1. Referring to [this medium article](https://towardsdatascience.com/step-by-step-implementation-3d-convolutional-neural-network-in-keras-12efbdd7b130). Use Incognito to access the complete article!
 
 1. I am taking 20 images out of the 6 walking sequences from each of the 11 viewing angles in 
 normal/cooperative conditions for 124 total subjects
