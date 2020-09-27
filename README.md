@@ -6,6 +6,15 @@ I have written this code for this [research paper](https://mediatum.ub.tum.de/do
 ## Main Goal
 The objective of the research paper as given above can summarized as :
                               *Creating a model for maintaining view invariance in Gait Analysis*
+                              
+## Prerequisites
+* Keras, Tensorflow, Python, Numpy, Matplotlib, pandas
+* Reading and analysing the research papers
+* Knowledge of 3D convolution neural networks
+* CASIA-B Dataset and it's ordering and structuring inside the given zip file
+* A lot of faith in one's self and willing to take risk with one's time!
+
+So if you have done this, cheers! Let's go!
 
 ## Upcoming Updates
 * LSTMs (Spatio-Temporal feature extraction)
