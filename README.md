@@ -11,5 +11,6 @@ The objective of the research paper as given above can summarized as :
 * LSTMs (Spatio-Temporal feature extraction)
 * SVMs
 * with OU-ISIR [Dataset](http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html)
+* ` .py ` script files will be available soon.
 
 __IMPORTANT: It is still under development. I will be trying the model with raw video clips instead of provided silhouette images__
