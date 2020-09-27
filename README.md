@@ -16,10 +16,22 @@ The objective of the research paper as given above can summarized as :
 
 So if you have done this, cheers! Let's go!
 
+## Important Points
+1. Referring to [this medium article](https://towardsdatascience.com/
+step-by-step-implementation-3d-convolutional-neural-network-in-keras-12efbdd7b130). Use Incognito to access the complete article!
+
+1. I am taking 20 images out of the 6 walking sequences from each of the 11 viewing angles in 
+normal/cooperative conditions for 124 total subjects
+
+1. I have taken 20 more images out of the same above given categories for my testing data
+
+__NOTE: the above method for taking inputs is going to be changed in the upcoming updates.__
+
 ## Upcoming Updates
 * LSTMs (Spatio-Temporal feature extraction)
 * SVMs
 * with OU-ISIR [Dataset](http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html)
 * ` .py ` script files will be available soon.
+* Structure of the input data
 
 __IMPORTANT: It is still under development. I will be trying the model with raw video clips instead of provided silhouette images__
